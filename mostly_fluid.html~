@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Column Drop Layout</title>
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="stylesheet" type="text/css" href="mostly_fluid.css">
   </head>
 	
 	
@@ -25,9 +25,9 @@
     <nav id="drawer" class="nav">
       <ul class="nav__list">
         <li class="nav__item"><a href="column_drop.html">Column Drop</a></li>
-        <li class="nav__item"><a href="off_canvas.html">Off Canvas</a></li>
-        <li class="nav__item"><a href="layout_shifter.html">Layout Shifter</a></li>
-        <li class="nav__item"><a href="mostly_fluid.html">Mostly Fluid</a></li>
+        <li class="nav__item"><a href="/off_canvas.html">Off Canvas</a></li>
+        <li class="nav__item"><a href="/layout_shifter.html">Layout Shifter</a></li>
+        <li class="nav__item"><a href="/mostly_fluid.html">Mostly Fluid</a></li>
       </ul>
     </nav>
 
@@ -35,6 +35,8 @@
 			<div class="box yellow">This is a yellow box, lol</div>
 			<div class="box red">This is a read box, lol</div>
 			<div class="box green">hi</div>
+			<div class="box purple">This is a purple box, lol</div>
+			<div class="box orange">This is an orange box, life half-life, lol</div>
 		</div>
 
 
