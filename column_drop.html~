@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  	<meta name="viewport" content="width-device=width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Column Drop Layout</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+	
+	
+	
+  <body>
+
+    <header class="header">
+      <div class="header__inner">
+        <img class="header__logo" src="images/city.png">
+        <h1 class="header__title">
+          Udacity's Responsive Design Class
+        </h1>
+      </div>
+    </header>
+
+    <nav id="drawer" class="nav">
+      <ul class="nav__list">
+        <li class="nav__item"><a href="column_drop.html">Column Drop</a></li>
+        <li class="nav__item"><a href="/off_canvas.html">Off Canvas</a></li>
+        <li class="nav__item"><a href="/layout_shifter.html">Layout Shifter</a></li>
+        <li class="nav__item"><a href="/mostly_fluid.html">Mostly Fluid</a></li>
+      </ul>
+    </nav>
+
+
+      <footer>
+        <ul>
+          <li><a href="#">Contact us</a></li>
+          <li><a href="#">Follow us on Twitter</a></li>
+          <li><a href="#">RSS</a></li>
+        </ul>
+      </footer>
+    </main>
+  </body>
+</html>

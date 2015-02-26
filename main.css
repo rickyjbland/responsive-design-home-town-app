@@ -127,6 +127,49 @@ main {
   margin-right: auto;
 }
 
+.container {
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.box {
+	width:100%;
+}
+
+.yellow {
+	background-color:yellow;
+}
+
+.red {
+	background-color:red;
+}
+
+.green {
+	background-color:green;
+}
+
+@media screen and (min-width:450px){
+	.yellow {
+		width:25%;
+	}
+	
+	.red {
+		width:75%;
+	}
+}
+
+@media screen and (min-width:550px){
+	.yellow, .green {
+		width:25%;
+	}
+	
+	.red{
+		width:50%;
+	}
+}
+
+
+
 /*
  *
  * Content
